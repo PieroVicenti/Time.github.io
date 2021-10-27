@@ -1,0 +1,63 @@
+body{
+  background: -webkit-gradient(linear,left top,left bottom,from(rgb(235, 187, 31)),to(rgb(95, 209, 103)))fixed;
+  align-items: center;
+}
+#demo{
+    border: 2px solid rgb(241, 239, 84);
+    border-radius: 10px;
+    position: absolute;
+    display: flex;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -150px;
+    width: 250px;
+    height: 50px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    color: red;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold;
+}
+#btn1{
+    background-color: transparent;
+    border: 2px solid rgb(241, 239, 84);
+    border-radius: 10px;
+    position: absolute;
+    display: flex;
+    top: 50%;
+    left: 50%;
+    margin-top: 50px;
+    margin-left: -50px;
+    width: 250px;
+    height: 50px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    color: red;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold;
+}
+#btn2{
+    background-color: transparent;
+    border: 2px solid rgb(241, 239, 84);
+    border-radius: 10px;
+    position: absolute;
+    display: flex;
+    top: 50%;
+    left: 50%;
+    margin-top: 50px;
+    margin-left: -320px;
+    width: 250px;
+    height: 50px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    color: red;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold;
+}
